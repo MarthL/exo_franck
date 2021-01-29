@@ -1,0 +1,54 @@
+.container img[alt="1"]{
+    position: relative;
+    left: 30%;
+    top: 5%;
+    
+}
+
+.container img[alt="2"]{
+    position: relative;
+    left: 10%;
+    top: 15%;
+    
+}
+
+
+.container img[alt="3"]{
+    position: relative;
+    left: 15%;
+    top: 15%;
+    
+}
+
+.container img[alt="4"]{
+    position: relative;
+    left: 10%;
+    top: 5%;
+    
+}
+
+.container img[alt="5"]{
+    position: relative;
+    left: 8%;
+    
+}
+
+.container img[alt="6"]{
+position: relative;
+top: 22%;
+
+}
+
+.container img[alt="7"]{
+    position: relative;
+    top:35%;
+    right: 20%;
+    
+}
+
+
+.container { 
+    background-color: yellow;
+    width: 1000px;
+    height: 800px;
+}

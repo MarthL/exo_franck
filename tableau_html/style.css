@@ -1,0 +1,27 @@
+table { 
+    margin: 100px auto;
+    cursor: pointer;
+    border-style: solid;
+    border-width: 10px;
+}
+
+
+thead tr { 
+    font-style: bold;
+    background: linear-gradient(185deg, rgba(0,0,0,1) 50%, rgba(255,255,255,1) 100%);
+    color: white;
+    text-align: right;
+}
+
+td { 
+    background-color: cornflowerblue;
+    width: 80px;
+}
+
+tbody tr :nth-of-type(1) {
+    width: 350px;
+}
+
+table tbody tr:hover * { 
+    background-color: grey;
+}
